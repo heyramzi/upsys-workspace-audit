@@ -10,7 +10,10 @@
   },
   "homepage": "https://www.upsys-consulting.com/en/clickup-audit",
   "repository": "https://github.com/heyramzi/upsys-workspace-audit",
+  "documentationUrl": "https://www.upsys-consulting.com/en/clickup-audit",
+  "supportUrl": "mailto:admin@upsys-consulting.com",
   "privacyPolicyUrl": "https://www.upsys-consulting.com/en/privacy",
+  "termsOfServiceUrl": "https://www.upsys-consulting.com/en/privacy",
   "icon": ".claude-plugin/icon.png",
   "keywords": ["clickup", "agency", "workspace-audit", "capacity-planning", "project-management"],
   "license": "MIT"
