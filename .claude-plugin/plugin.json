@@ -1,0 +1,17 @@
+{
+  "name": "upsys-workspace-audit",
+  "displayName": "UpSys Workspace Audit",
+  "description": "Audit an agency's ClickUp workspace for ownership, effort, weekly planning, capacity, slippage and structure, and get the fix for each gap.",
+  "version": "1.0.0",
+  "author": {
+    "name": "UpSys LLC",
+    "email": "admin@upsys-consulting.com",
+    "url": "https://www.upsys-consulting.com"
+  },
+  "homepage": "https://www.upsys-consulting.com/en/clickup-audit",
+  "repository": "https://github.com/heyramzi/upsys-workspace-audit",
+  "privacyPolicyUrl": "https://www.upsys-consulting.com/en/privacy",
+  "icon": ".claude-plugin/icon.png",
+  "keywords": ["clickup", "agency", "workspace-audit", "capacity-planning", "project-management"],
+  "license": "MIT"
+}

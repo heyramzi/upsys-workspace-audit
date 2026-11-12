@@ -1,0 +1,17 @@
+{
+  "$schema": "https://code.claude.com/schemas/marketplace.json",
+  "name": "upsys-workspace-audit",
+  "description": "UpSys Workspace Audit for Claude: score an agency's ClickUp workspace on 6 delivery checks and get the fix for each gap.",
+  "owner": {
+    "name": "UpSys LLC",
+    "email": "admin@upsys-consulting.com",
+    "url": "https://www.upsys-consulting.com"
+  },
+  "plugins": [
+    {
+      "name": "upsys-workspace-audit",
+      "source": "./",
+      "description": "One skill that audits a ClickUp workspace from live data when ClickUp is connected, or from an 8-question interview when it isn't. Read-only."
+    }
+  ]
+}
